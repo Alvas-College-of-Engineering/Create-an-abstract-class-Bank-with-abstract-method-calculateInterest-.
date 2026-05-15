@@ -2,6 +2,8 @@
 Create an abstract class Bank with abstract method calculateInterest().
 Banking System using Java Swing
 ![Project Screenshot](screenshots/image.png)
+
+
 About the Project
 
 This is a simple banking application developed using Java Swing. The main purpose of this project is to understand basic Object-Oriented Programming concepts like abstraction, inheritance, and method overriding in Java.
@@ -25,9 +27,15 @@ Method Overriding
 GUI using Swing and AWT
 How the Application Works
 The user enters an amount in the text field.
+
 Clicking the Savings Interest button calculates interest at 4%.
+
+
 ![Project Screenshot](screenshots/saving.png)
+
+
 Clicking the Current Interest button calculates interest at 2%.
+
 ![Project Screenshot](screenshots/current.png)
 
 The calculated result is displayed on the screen.
